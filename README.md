@@ -1,6 +1,6 @@
 # vuecli3web
 - [x] vuecli3.0
-- [x] ElementUi 框架 
+- [x] ElementUi
 - [x] 二次封装axios
 - 此为镜像仓库-原仓库(Gitee):https://gitee.com/xiangmukuangjia/vuecli3.0ElementUi
 ![](https://images.gitee.com/uploads/images/2019/0723/154037_813259a0_1430678.png)
