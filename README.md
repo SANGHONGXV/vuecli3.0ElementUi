@@ -4,7 +4,7 @@
 - [x] 二次封装axios
 
 ![](https://images.gitee.com/uploads/images/2019/0723/154037_813259a0_1430678.png)
-![](https://images.gitee.com/uploads/images/2019/0723/154056_cbbfe762_1430678.png)
+![](https://images.gitee.com/uploads/images/2019/0723/154514_94373c4e_1430678.png)
 ## Project setup
 ```
 npm install
