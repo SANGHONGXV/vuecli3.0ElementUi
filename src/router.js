@@ -22,7 +22,7 @@ let routes= new Router({
       path: '/',
       component: Home,
       name: '',
-      iconCls: 'el-icon-message',//图标样式class
+      iconCls: 'el-icon-orange',//图标样式class
       leaf: true,//只有一个节点
       children: [
           { path: '/overview', component: Overview, name: '概览'},
