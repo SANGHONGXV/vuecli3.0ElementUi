@@ -1,5 +1,5 @@
 # vuecli3web
-# vuecli3.0
+[x] vuecli3.0
 [x] ElementUi 框架 
 [x] 二次封装axios
 
