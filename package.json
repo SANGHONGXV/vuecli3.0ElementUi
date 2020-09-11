@@ -1,5 +1,5 @@
 {
-  "name": "vuecli3web",
+  "name": "giteeDataV",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "echarts": "^4.8.0",
     "element-ui": "^2.10.1",
     "serve": "^11.1.0",
     "vue": "^2.6.10",
@@ -24,7 +25,8 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "node-sass": "^4.12.0",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^8.0.2",
+    "scss-loader": "^0.0.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vue-template-compiler": "^2.6.10"
